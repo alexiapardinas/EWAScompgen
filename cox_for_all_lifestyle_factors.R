@@ -1,3 +1,5 @@
+## This code was executed inside a cluster. Data is only available upon request (UK Biobank).
+
 #!/usr/bin/env Rscript
 library(survival, lib.loc = "/gpfs/home/bsc/bsc695622/R/x86_64-pc-linux-gnu-library/4.3/")
 library(dplyr, lib.loc = "/gpfs/home/bsc/bsc695622/R/x86_64-pc-linux-gnu-library/4.3/")
