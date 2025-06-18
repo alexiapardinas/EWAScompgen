@@ -23,12 +23,16 @@ This folder contains supplementary figures and tables referenced in the main man
 * Description: This heatmap shows the enrichment score (ES) in log2 scale of the lifestyle categories (diet, nutrients, physical activity, etc.) per ICD-10 Chapter. ES is calculated as the ratio of observed count of associations belonging to each category in diseases of the Chapter and expected ones (if they were distributed randomly and independently).
 
 ### Supplementary_Figure_S5.png
-* Title: Risk and protective lifestyle factors associated with T2D grouped by lifestyle categories (males).
-* Description: Representation of risk and protective lifestyle categories found associated with T2D, calculated as a proportion within categories (number of associated factors in the category / total number of factors in the category).
+* Title: Risk and protective lifestyle factors associated with T2D grouped by lifestyle categories.
+* Description: Representation of risk and protective lifestyle categories found associated with T2D, calculated as a proportion within categories (number of associated factors in the category / total number of factors in the category). (A) Males. (B) Females.
 
 ### Supplementary_Figure_S6.png
-* Title: Risk and protective lifestyle factors associated with T2D grouped by lifestyle categories (females).
-* Description: Representation of risk and protective lifestyle categories found associated with T2D, calculated as a proportion within categories (number of associated factors in the category / total number of factors in the category).
+* Title: Sex-differential analysis on type 2 diabetes.
+* Description: Representation of significantly different effect sizes associations between males (blue) and females (coral). (A) Pure (sex-specific) significant associations, found significantly associated with T2D in one of the sexes. (B) Quantitative (different effect size magnitude) significant associations, found significantly lassociated with T2D in both sexes but exhibiting different effect sizes towards the same direction (protective or adverse in both sexes).
+
+### Supplementary_Figure_S7.png
+* Title: Predictive models' performance comparison.
+* Description: Comparison of performance metrics between Model 1 (ERS derived from Cox p-value threshold subsetting) and Model 2 (ERS derived from elastic net feature selection). (A) Males. (B) Females.
 
 ==============================
 ## Supplementary Tables (TSV)
