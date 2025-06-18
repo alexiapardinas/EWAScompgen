@@ -49,3 +49,7 @@ This folder contains supplementary figures and tables referenced in the main man
 ### Supplementary_Table_S3.tsv
 * Title: Set of lifestyle factors used as predictors.
 * Description: List of the selected lifestyle factors used as predictors in each of the predictive models (Cox p-value threshold subsetting and Elastic Net Regression).
+
+### Supplementary_Table_S4.tsv
+* Title: Sex-differential analysis significant results.
+* Description: List of significantly different factors (effect sizes) between males and females. The table includes the results for both the full evaluation and the first-filtering approaches.
