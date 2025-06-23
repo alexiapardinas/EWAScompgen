@@ -51,5 +51,9 @@ This folder contains supplementary figures and tables referenced in the main man
 * Description: List of the selected lifestyle factors used as predictors in each of the predictive models (Cox p-value threshold subsetting and Elastic Net Regression).
 
 ### Supplementary_Table_S4.tsv
+* Title: Models' prediction performance metrics and confusion matrices.
+* Description: Summary of Cox's ERS and Elastic net's ERS performance descriptive metrics.
+
+### Supplementary_Table_S5.tsv
 * Title: Sex-differential analysis significant results.
 * Description: List of significantly different factors (effect sizes) between males and females. The table includes the results for both the full evaluation and the first-filtering approaches.
