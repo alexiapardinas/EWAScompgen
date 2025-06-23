@@ -47,13 +47,14 @@ This folder contains supplementary figures and tables referenced in the main man
 * Description: List of the top 10 risk and protective lifestyle factors that were found associated more times across all the ICD-10 disease Chapters, including information about the category they belong to, and the number and name of chapters where association was found.
 
 ### Supplementary_Table_S3.tsv
+* Title: Sex-differential analysis significant results.
+* Description: List of significantly different factors (effect sizes) between males and females. The table includes the results for both the full evaluation and the first-filtering approaches.
+
+### Supplementary_Table_S4.tsv
 * Title: Set of lifestyle factors used as predictors.
 * Description: List of the selected lifestyle factors used as predictors in each of the predictive models (Cox p-value threshold subsetting and Elastic Net Regression).
 
-### Supplementary_Table_S4.tsv
+### Supplementary_Table_S5.tsv
 * Title: Models' prediction performance metrics and confusion matrices.
 * Description: Summary of Cox's ERS and Elastic net's ERS performance descriptive metrics.
 
-### Supplementary_Table_S5.tsv
-* Title: Sex-differential analysis significant results.
-* Description: List of significantly different factors (effect sizes) between males and females. The table includes the results for both the full evaluation and the first-filtering approaches.
