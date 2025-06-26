@@ -15,26 +15,18 @@ This folder contains supplementary figures and tables referenced in the main man
 * Description: Bar plot of counts of factors belonging to each lifestyle category. Factors included in each category can be found in Supplementary Table S1.
 
 ### Supplementary_Figure_S3.png
-* Title: Percentage of representation of lifestyle categories across ICD-10 disease Chapters.
-* Description: This heatmap shows the percentage of found factor-disease associations grouped by category and ICD-10 Chapters, out of the possible total associations taking into account the number of total factors per category and the number of diseases in each ICD-10 Chapter.
-
-### Supplementary_Figure_S4.png
-* Title: Lifestyle category enrichment per ICD-10 Chapter.
-* Description: This heatmap shows the enrichment score (ES) in log2 scale of the lifestyle categories (diet, nutrients, physical activity, etc.) per ICD-10 Chapter. ES is calculated as the ratio of observed count of associations belonging to each category in diseases of the Chapter and expected ones (if they were distributed randomly and independently).
-
-### Supplementary_Figure_S5.png
 * Title: Associated lifestyle and environmental factors across ICD-10 disease chapters (females).
 * Description: This bubble diagram shows the number of times a factor was found associated with each ICD-10 disease Chapter. The color of the bubble indicates the direction of the effect (red = risk; blue = protective). Factors are grouped by categories. Only those factors associated with at least 10% of the phenotypes of the Chapter are shown.
 
-### Supplementary_Figure_S6.png
+### Supplementary_Figure_S4.png
 * Title: Risk and protective lifestyle factors associated with T2D grouped by lifestyle categories.
 * Description: Representation of risk and protective lifestyle categories found associated with T2D, calculated as a proportion within categories (number of associated factors in the category / total number of factors in the category). (A) Males. (B) Females.
 
-### Supplementary_Figure_S7.png
+### Supplementary_Figure_S5.png
 * Title: Sex-differential analysis on type 2 diabetes.
 * Description: Representation of significantly different effect sizes associations between males (blue) and females (coral). (A) Pure (sex-specific) significant associations, found significantly associated with T2D in one of the sexes. (B) Quantitative (different effect size magnitude) significant associations, found significantly lassociated with T2D in both sexes but exhibiting different effect sizes towards the same direction (protective or adverse in both sexes).
 
-### Supplementary_Figure_S8.png
+### Supplementary_Figure_S6.png
 * Title: Predictive models' performance comparison.
 * Description: Comparison of performance metrics between Model 1 (ERS derived from Cox p-value threshold subsetting) and Model 2 (ERS derived from elastic net feature selection). (A) Males. (B) Females.
 
